@@ -87,3 +87,11 @@ This guide outlines the process of transferring the operating system (OS) from o
    ```
 
    Be absolutely certain that the new setup is working before destroying the old pool.
+
+
+## Sources
+
+- [GRUB Documentation](https://www.gnu.org/software/grub/manual/grub/)
+- [ZFS rescue from live CD](https://openzfs.github.io/openzfs-docs/Getting%20Started/Debian/Debian%20Bookworm%20Root%20on%20ZFS.html#rescuing-using-a-live-cd)
+- [Oracle ZFS Migration](https://docs.oracle.com/cd/E19253-01/819-5461/gbchy/index.html)
+- [Reddit question](https://www.reddit.com/r/zfs/comments/paa9ei/easy_question_migrate_to_new_disk_in_a_singledisk/)

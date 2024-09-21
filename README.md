@@ -1,6 +1,9 @@
 ## Transferring OS from rpool to nvme-pool in Proxmox
 
-This guide outlines the process of transferring the operating system (OS) from one ZFS pool (rpool) to another (nvme-pool) in Proxmox.
+This guide outlines the process of transferring the operating system (OS) from one ZFS pool (rpool) to another (nvme-pool) in Proxmox. 
+This procedure was necessary on my Dell R630 server after installing an AOC-SLG3-2M2 add-on card with two NVMe drives, allowing for a significant performance upgrade.
+
+Saw this guide on Reddit and tried it out: https://www.reddit.com/r/homelab/comments/iy4m1w/how_to_add_dual_nvme_drives_in_a_dell_r630/
 
 ## Prerequisites
 
